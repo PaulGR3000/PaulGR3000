@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola, Soy Paul</h1>
+<h1 align="center">Hi, I'm Paul</h1>
 
 <div align="center">
 <a href="https://ossinsight.io">
